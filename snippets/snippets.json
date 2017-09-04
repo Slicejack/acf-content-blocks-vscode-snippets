@@ -23,5 +23,10 @@
 		"prefix": "get_content_block_name",
 		"body": "get_content_block_name()",
 		"description": "Returns content block name."
+	},
+	"the_content_blocks": {
+		"prefix": "the_content_blocks",
+		"body": "the_content_blocks()",
+		"description": "Renders content blocks."
 	}
 }
