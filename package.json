@@ -1,0 +1,21 @@
+{
+    "name": "acf-content-blocks",
+    "displayName": "ACF Content Blocks",
+    "description": "",
+    "version": "0.0.1",
+    "publisher": "anteprimorac",
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "php",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}

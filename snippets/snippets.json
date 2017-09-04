@@ -1,0 +1,27 @@
+{
+	"have_content_blocks": {
+		"prefix": "have_content_blocks",
+		"body": "have_content_blocks()",
+		"description": "This function will instantiate a global variable containing the rows of a content blocks field, after which, it will determine if another row exists to loop through."
+	},
+	"the_content_block": {
+		"prefix": "the_content_block",
+		"body": "the_content_block()",
+		"description": "Same as ACFthe_row function."
+	},
+	"get_content_block_field": {
+		"prefix": "get_content_block_field",
+		"body": "get_content_block_field( ${1:field_name} )",
+		"description": "Returns content block field value."
+	},
+	"the_content_block_field": {
+		"prefix": "the_content_block_field",
+		"body": "the_content_block_field( ${1:field_name} )",
+		"description": "Displays content block field value."
+	},
+	"get_content_block_name": {
+		"prefix": "get_content_block_name",
+		"body": "get_content_block_name()",
+		"description": "Returns content block name."
+	}
+}
